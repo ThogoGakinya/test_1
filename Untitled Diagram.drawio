@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-26T18:51:49.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Yh3guoWtO5tjhypzrtVq" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-26T20:21:01.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-ACn9Ucq3OwUXMCPTcrF" version="20.8.23" type="github">
   <diagram name="Page-1" id="z4X7nBzqHsGWjO5fPf2l">
-    <mxGraphModel dx="1290" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,8 +93,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TDqP3z-H94sPRknVNPj9-37" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="240" width="60" height="30" as="geometry" />
+        <mxCell id="TDqP3z-H94sPRknVNPj9-37" value="HTTP Request" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="253" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TDqP3z-H94sPRknVNPj9-38" value="HTTP Response" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="253" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TDqP3z-H94sPRknVNPj9-40" value="&lt;b&gt;Where is&lt;br&gt;www.foobar.com ?&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="218" y="190" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TDqP3z-H94sPRknVNPj9-41" value="&lt;b&gt;www.foobar.com is at&lt;br&gt;8.8.8.8&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="182.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TDqP3z-H94sPRknVNPj9-42" value="&lt;b&gt;Web server&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="613.64" y="60" width="76.36" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TDqP3z-H94sPRknVNPj9-43" value="&lt;b&gt;App Files&amp;nbsp;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="682.39" y="272.5" width="76.36" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TDqP3z-H94sPRknVNPj9-44" value="&lt;b&gt;App server&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="566.37" y="190" width="76.36" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TDqP3z-H94sPRknVNPj9-45" value="&lt;b&gt;MySQL DB Server&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="636.37" y="380" width="76.36" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
